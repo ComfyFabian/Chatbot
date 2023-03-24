@@ -1,0 +1,38 @@
+{
+  "intents" : [{
+    "tag"       :  "greetings",
+    "patterns"  :  ["hi", "hey", "hallo", "guten tag", "gruesse", "grüße"],
+    "responses" : ["Was kann ich für dich tun?", "Wie kann ich dir behilflich sein?"]
+  },{
+    "tag"       :  "",
+    "patterns"  :  [""],
+    "responses" : [""]
+  },{
+    "tag"       :  "",
+    "patterns"  :  [""],
+    "responses" : [""]
+  },{
+    "tag"       :  "",
+    "patterns"  :  [""],
+    "responses" : [""]
+  },{
+    "tag"       :  "",
+    "patterns"  :  [""],
+    "responses" : [""]
+  },{
+    "tag"       :  "",
+    "patterns"  :  [""],
+    "responses" : [""]
+  },{
+    "tag"       :  "",
+    "patterns"  :  [""],
+    "responses" : [""]
+  },{
+    "tag"       :  "",
+    "patterns"  :  [""],
+    "responses" : [""]
+  },{
+    "tag"       :  "",
+    "patterns"  :  [""],
+    "responses" : [""]
+  }]}
